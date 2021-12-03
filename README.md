@@ -26,3 +26,4 @@ Foi realizada as tres partes do teste conforme solicitado
 - Na consulta buscamos todos as string geradas na parte um e mostramos em paginaçao conforme solicitado
 - Utilizamos um select para filtrar a quantidade de requisições
 - Criamos uma view blade chamada resultado para mostrar o retorno do banco de dados
+- Na pasta bd da raiz está o banco de dados
